@@ -2,7 +2,7 @@
 # ZooGenes Integration Plugin for Unreal Engine 5.2+
 This plugin provides everything you need to seamlessly integrate ZooGenes—a collection of 3D characters created by PLYR CHAIN—into your Unreal Engine projects.
 
-#Features
+# Features
 
 Quick Start: Includes starter files to get up and running with ZooGenes characters right away.
 
@@ -10,7 +10,7 @@ Optimized for Unreal Engine 5.2 and above: Leverages the latest capabilities of 
 
 Full Compatibility: Designed for easy integration into both new and existing UE5 projects.
 
-#Getting Started
+# Getting Started
 
 Follow these steps to integrate ZooGenes characters into your Unreal Engine project:
 

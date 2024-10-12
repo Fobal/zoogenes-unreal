@@ -4,8 +4,11 @@ This plugin provides everything you need to seamlessly integrate ZooGenes—a co
 
 Features
 Quick Start: Includes starter files to get up and running with ZooGenes characters right away.
+
 Optimized for Unreal Engine 5.2 and above: Leverages the latest capabilities of UE5, ensuring smooth integration and performance.
+
 Full Compatibility: Designed for easy integration into both new and existing UE5 projects.
+
 Getting Started
 Follow these steps to integrate ZooGenes characters into your Unreal Engine project:
 

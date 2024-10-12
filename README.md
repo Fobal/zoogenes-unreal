@@ -20,7 +20,7 @@ Enable the Plugin: Open your project in Unreal Engine, go to Edit > Plugins, and
 
 Check the demo: In the Unreal Engine Editor, go to ZooGenesPlugin Content > Demo , in the plugins directory, and open the "LVL_Demo" level.
 
-On your own: Feel free to check the functionality of each blueprint and adjust the premade ZooGene character actor for your project!
+On your own: Feel free to check the functionality of each blueprint and adjust the premade ZooGene character actor to fit your project!
 
 # Support
 If you encounter any issues or need help, feel free to open an issue on this repository, contact Fobal through socials, or reach out to us through the PLYR CHAIN community.

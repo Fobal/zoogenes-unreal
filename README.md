@@ -1,5 +1,5 @@
-# zoogenes-unreal
-# ZooGenes Integration Plugin for Unreal Engine 5.2+
+# ZooGenes Starter-Integration Plugin for Unreal Engine 5.2+
+
 This plugin provides everything you need to seamlessly integrate ZooGenes—a collection of 3D characters created by PLYR CHAIN—into your Unreal Engine projects.
 
 # Features
@@ -18,17 +18,12 @@ Install the Plugin: Move the plugin folder into the Plugins directory of your Un
 
 Enable the Plugin: Open your project in Unreal Engine, go to Edit > Plugins, and enable the ZooGenes Integration Plugin if it's not enabled.
 
-Check the demo: In the Unreal Engine Editor, navigate to the Demo folder, located in the ZooGenesPlugin, in the plugins directory.
+Check the demo: In the Unreal Engine Editor, go to ZooGenesPlugin Content > Demo , in the plugins directory, and open the "LVL_Demo" level.
 
-# Requirements
-Unreal Engine 5.2 or higher
-
-# Documentation
-For detailed documentation and examples on how to use the plugin, check out the Wiki.
+On your own: Feel free to check the functionality of each blueprint and adjust the premade ZooGene character actor for your project!
 
 # Support
 If you encounter any issues or need help, feel free to open an issue on this repository, contact Fobal through socials, or reach out to us through the PLYR CHAIN community.
-...
 
 ## TERMS OF USE
-Check the "licence" file for more information.
+Check the "licence" file for EULA.

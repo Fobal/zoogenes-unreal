@@ -6,7 +6,7 @@ This plugin provides everything you need to seamlessly integrate ZooGenes—a co
 
 Quick Start: Includes starter files to get up and running with ZooGenes characters right away.
 
-Full Compatibility: Designed for easy integration into both new and existing UE5 projects.
+Full Compatibility: Designed for easy integration into both new and existing UE5 projects, c++ or blueprints only!
 
 # Getting Started
 

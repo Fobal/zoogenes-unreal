@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ZooGenesPlugin",
+	"Description": "An open source plugin by PLYR CHAIN to make the intergration of 3D ZooGenes easier for all developers.",
+	"Category": "Other",
+	"CreatedBy": "Fobal",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

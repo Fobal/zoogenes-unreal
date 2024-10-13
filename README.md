@@ -6,7 +6,7 @@ This plugin provides everything you need to seamlessly integrate ZooGenes—a co
 
 Quick Start: Includes starter files to get up and running with ZooGenes characters right away.
 
-Basic UI: Includes UI functionality to showcase a list of random 50 ZooGenes.
+Basic UI: Includes UI functionality to showcase and filter a list of random ZooGenes.
 
 Control Rig: Includes a control rig to easily animate the ZooGenes. It's in early version.
 

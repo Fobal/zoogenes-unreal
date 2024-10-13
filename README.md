@@ -6,6 +6,10 @@ This plugin provides everything you need to seamlessly integrate ZooGenes—a co
 
 Quick Start: Includes starter files to get up and running with ZooGenes characters right away.
 
+Basic UI: Includes UI functionality to showcase a list of random 50 ZooGenes.
+
+Control Rig: Includes a control rig to easily animate the ZooGenes. It's in early version.
+
 Full Compatibility: Designed for easy integration into both new and existing UE5 projects, c++ or blueprints only!
 
 # Getting Started
@@ -23,6 +27,9 @@ Check the demo: In the Unreal Engine Editor, go to ZooGenesPlugin Content > Demo
 On your own: Feel free to check the functionality of each blueprint and adjust the premade ZooGene character actor to fit your project!
 
 How it works: Basically, we set all the materials of the ZooGene to M_Empty and then we assign the materials of the selected ZooGene. This way we hide all the mesh except the parts that we need.
+
+# Roadmap
+We plan to add a starter animation kit. This plugin already includes a control rig which can be used to very easily animate the ZooGenes, but there are some improvements that can be made.
 
 # Support
 If you encounter any issues or need help, feel free to open an issue on this repository, contact Fobal through socials, or reach out to us through the PLYR CHAIN community.

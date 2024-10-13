@@ -22,6 +22,8 @@ Check the demo: In the Unreal Engine Editor, go to ZooGenesPlugin Content > Demo
 
 On your own: Feel free to check the functionality of each blueprint and adjust the premade ZooGene character actor to fit your project!
 
+How it works: Basically, we set all the materials of the ZooGene to M_Empty and then we assign the materials of the selected ZooGene. This way we hide all the mesh except the parts that we need.
+
 # Support
 If you encounter any issues or need help, feel free to open an issue on this repository, contact Fobal through socials, or reach out to us through the PLYR CHAIN community.
 

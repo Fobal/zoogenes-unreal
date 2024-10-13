@@ -10,7 +10,7 @@ Basic UI: Includes UI functionality to showcase and filter a list of random ZooG
 
 Control Rig: Includes a control rig to easily animate the ZooGenes. It's in early version.
 
-Full Compatibility: Designed for easy integration into both new and existing UE5 projects, c++ or blueprints only!
+Full Compatibility: Designed for easy integration into both new and existing UE5.2+ projects, c++ or blueprints!
 
 # Getting Started
 
